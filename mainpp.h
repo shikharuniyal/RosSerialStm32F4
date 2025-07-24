@@ -1,9 +1,4 @@
-/*
- * mainpp.h
- *
- *  Created on: Jan 6, 2024
- *      Author: HP GAMING
- */
+
 
 #ifndef INC_MAINPP_H_
 #define INC_MAINPP_H_
